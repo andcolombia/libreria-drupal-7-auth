@@ -1,2 +1,2 @@
-# libreria-drupal-7-auth
+# Librería de integración con Drupal 7
 Repositorio con el ejemplo de integración al Servicio de Autenticación Digital con Drupal 7.
